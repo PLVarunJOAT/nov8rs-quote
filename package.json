@@ -1,0 +1,6 @@
+{
+  "name": "nov8rs-quote",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=18" }
+}
